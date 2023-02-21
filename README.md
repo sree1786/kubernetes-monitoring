@@ -1,3 +1,6 @@
+/wQLSt3q7O/rbiaZMDS9YzADcUEGxwHRj1UKTOAf
+
+AKIAT2ABA64CAKLFDVX6
 # kubernetes
 
 ## emphiramal containers 
